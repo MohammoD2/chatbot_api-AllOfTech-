@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+requests
+python-dotenv
+pydantic
+langchain
+langchain-community
+faiss-cpu
+sentence-transformers
+azure-storage-blob
+psycopg2-binary
+python-multipart
+huggingface_hub
